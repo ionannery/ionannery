@@ -4,6 +4,7 @@
 </p>
 
 ### Olá, meu nome é Ionan Nery 👋
+
 - Apaixonado por tecnologia ❤️
 - Atualmente estudando **Desenvolvimento Web** na [Trybe](https://www.betrybe.com/) 👨🏻‍💻
 - Graduando em **Sistemas de Informação** no Centro Universitário [Unifacid Wyden](https://www.wyden.com.br/unifacid) 💻
@@ -25,9 +26,9 @@
 ### Redes Sociais:
 
 <div>
-  <a href = "mailto:ionan16@hotmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.facebook.com/ionan.nery.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.instagram.com/ionannery/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = "mailto:ionan16@hotmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"> </a>&nbsp;
+  <a href = "https://www.facebook.com/ionan.nery.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>&nbsp;
+  <a href = "https://www.instagram.com/ionannery/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
   <a href = "https://www.linkedin.com/in/ionannery/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
   

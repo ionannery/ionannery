@@ -34,8 +34,10 @@
   
   ##
 
-<div align="center">
-  <a href="https://github.com/ionannery">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ionannery&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionannery&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<a href="https://github.com/ionannery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ionannery&show_icons=true&theme=dark" width="350px" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionannery&layout=compact&theme=dark" width="350px" />
+</a>
+

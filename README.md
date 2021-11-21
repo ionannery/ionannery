@@ -35,9 +35,9 @@
   ##
 
 <a href="https://github.com/ionannery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ionannery&show_icons=true&theme=dark" width="350px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ionannery&show_icons=true&theme=dark" width="400" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionannery&layout=compact&theme=dark" width="350px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionannery&layout=compact&theme=dark" width="450" />
 </a>
 

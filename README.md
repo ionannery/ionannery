@@ -6,7 +6,7 @@
 ### Olá, meu nome é Ionan Nery 👋
 
 - Apaixonado por tecnologia ❤️
-- Atualmente estudando **Desenvolvimento Web** na [Trybe](https://www.betrybe.com/) 👨🏻‍💻
+- Atualmente estudando **Desenvolvimento Web** na [Trybe](https://www.betrybe.com/) 👨🏻‍💻 <img align="center" alt="code" src="https://icongr.am/octicons/code.svg?size=25&color=ffffff">
 - Graduando em **Sistemas de Informação** no Centro Universitário [Unifacid Wyden](https://www.wyden.com.br/unifacid) 💻
 
 ##
@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
   <a href="https://github.com/ionannery">
     <img align="center" alt="ionan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="ionan-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+    <img align="center" alt="ionan-HTML" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="ionan-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="ionan-GIT" height="35" widht="40" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/>
     <img align="center" alt="ionan-TERMINAL" height="23" width="33" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/48px-Windows_Terminal_logo.svg.png">
@@ -36,9 +36,9 @@
   ##
 
 <a href="https://github.com/ionannery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ionannery&show_icons=true&theme=dark" width="350" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ionannery&show_icons=true&theme=dark" height="180em" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionannery&layout=compact&theme=dark" width="350" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionannery&layout=compact&theme=dark" height="180em" />
 </a>
 

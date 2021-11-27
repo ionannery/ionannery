@@ -39,6 +39,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ionannery&show_icons=true&theme=dark" height="180em" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionannery&layout=compact&theme=dark" height="180em" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionannery&layout=compact&theme=dark" height="170em" />
 </a>
 

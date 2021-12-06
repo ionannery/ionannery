@@ -27,9 +27,9 @@
 ### Redes Sociais:
 
 <div>
-  <a href = "mailto:ionan16@hotmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"> </a>  &nbsp;
-  <a href = "https://www.facebook.com/ionan.nery.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> &nbsp;
-  <a href = "https://www.instagram.com/ionannery/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp;
+  <a href = "mailto:ionan16@hotmail.com" target = "_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> </a>  &nbsp;
+  <a href = "https://www.facebook.com/ionan.nery.1/" target = "_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> &nbsp;
+  <a href = "https://www.instagram.com/ionannery/" target = "_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;
   <a href = "https://www.linkedin.com/in/ionannery/" target = "_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
   

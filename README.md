@@ -6,7 +6,6 @@
 ### Olá, meu nome é Ionan Nery 👋
 
 - Apaixonado por tecnologia ❤️
-- Atualmente estudando **Desenvolvimento Web** na [Trybe](https://www.betrybe.com/) 👨🏻‍💻 <img width="18" align="center" alt="code" src="https://icongr.am/octicons/code.svg?size=25&color=ffffff">
 - Graduando em **Sistemas de Informação** no Centro Universitário [UniFacid Wyden](https://www.wyden.com.br/unifacid) 💻
 
 ##

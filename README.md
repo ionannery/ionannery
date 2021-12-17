@@ -7,7 +7,7 @@
 
 - Apaixonado por tecnologia ❤️
 - Graduando em **Sistemas de Informação** no Centro Universitário [**UniFacid Wyden**](https://www.wyden.com.br/unifacid) 💻
-- Atualmente estágiário na empresa [**The Forense**](https://www.theforense.com.br/) 👨🏽‍💻
+- Atualmente estagiário na empresa [**The Forense**](https://www.theforense.com.br/) 👨🏽‍💻
 ##
 
 ### Em aprendizagem :

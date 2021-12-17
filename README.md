@@ -6,7 +6,7 @@
 ### Olá, meu nome é Ionan Nery 👋
 
 - Apaixonado por tecnologia ❤️
-- Graduando em **Sistemas de Informação** no Centro Universitário [**UniFacid Wyden**](https://www.wyden.com.br/unifacid) 💻
+- Graduando em **Sistemas de Informação** pelo Centro Universitário [**UniFacid Wyden**](https://www.wyden.com.br/unifacid) 💻
 - Atualmente estagiário na empresa [**The Forense**](https://www.theforense.com.br/) 👨🏽‍💻
 ##
 

@@ -13,7 +13,6 @@
 ### Em aprendizagem :
 <div style="display: inline_block"><br>
   <a href="https://github.com/ionannery">
-    <img align="center" alt="ionan-SHELL" height="35" width="40" src="https://img.icons8.com/ios-filled/50/000000/console.png"/>
     <img align="center" alt="ionan-LINUX" height="35" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=000000">
     <img align="center" alt="ionan-JS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="ionan-HTML" height="35" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

@@ -10,7 +10,7 @@
 - Atualmente estagiário na empresa [**The Forense**](https://www.theforense.com.br/) 👨🏽‍💻
 ##
 
-### Em aprendizagem :
+### Tecnologias :
 <div style="display: inline_block"><br>
   <a href="https://github.com/ionannery">
     <img align="center" alt="ionan-LINUX" height="35" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=000000">

@@ -7,7 +7,7 @@
 
 - Apaixonado por tecnologia ❤️
 - Graduando em **Sistemas de Informação** pelo Centro Universitário [**UniFacid Wyden**](https://www.wyden.com.br/unifacid) 💻
-- Atualmente estagiário na empresa [**The Forense**](https://www.theforense.com.br/) 👨🏽‍💻
+- Atualmente Analista de Service Desk Jr na [**Ready•TI**](https://www.readyti.com.br/) 👨🏽‍💻
 ##
 
 ### Tecnologias :

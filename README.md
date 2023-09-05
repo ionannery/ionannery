@@ -6,7 +6,7 @@
 ### Olá, meu nome é Ionan Nery 👋
 
 - Apaixonado por tecnologia ❤️
-- Graduando em **Sistemas de Informação** pelo Centro Universitário [**UniFacid Wyden**](https://www.wyden.com.br/unifacid) 💻
+- Graduado em **Sistemas de Informação** pelo Centro Universitário [**UniFacid Wyden**](https://www.wyden.com.br/unifacid) 💻
 - Atualmente Analista de Segurança da Informação no [**Grupo Binário**](https://www.binarionet.com.br/) 👨🏽‍💻
 ##
 

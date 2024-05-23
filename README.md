@@ -38,10 +38,9 @@
   
   ##
 
-<a href="https://github.com/ionannery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ionannery&show_icons=true&theme=great-gatsby" width="400" height="162em"/>
-</a>
-<a href="https://github.com/ionannery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionannery&layout=compact&theme=great-gatsby" width="400" height="170em"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ionannery&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ionannery&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 

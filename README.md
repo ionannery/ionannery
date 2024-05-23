@@ -31,7 +31,7 @@
 ### Redes Sociais:
 
 <div>
-  <a href = "mailto:ionannery@gmail.com" target = "_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> </a>  &nbsp;
+  <a href = "mailto:ionannery@gmail.com" target = "_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a>  &nbsp;
   <a href = "https://www.instagram.com/ionannery/" target = "_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;
   <a href = "https://www.linkedin.com/in/ionannery/" target = "_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>

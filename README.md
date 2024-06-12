@@ -8,7 +8,7 @@
 - Apaixonado por tecnologia ❤️
 - Graduado em **Sistemas de Informação** pelo Centro Universitário [**UniFacid Wyden**](https://www.wyden.com.br/unifacid) 💻
 - Pós Graduando em **Defensive Cyber Security - Blue Team Operations** pela [**FIAP**](https://postech.fiap.com.br/curso/defensive-cyber-security-blue-team-ops/) 🔒🛡️🕵️
-- Atualmente aluno da Formação AWS do mentor Henrylle Maia ☁️♾️
+- Atualmente aluno da **Formação AWS** do mentor Henrylle Maia [**Formação AWS**](https://pages.formacaoaws.com.br/formacao-aws) ☁️♾️
 ##
 
 ### Tecnologias :

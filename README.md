@@ -5,7 +5,7 @@
 
 # Olá, eu sou Ionan Nery! 👋
 
-Sou um **Cyber Security Analyst**focado em criar soluções robustas e escaláveis. Tenho um forte background em **Linux** e sou **AWS Certified**. Minhas áreas de atuação incluem: **Segurança da Informação**, **Blue Team**, **Fortigate**.
+Sou um **Analista de Cibersegurança** focado em criar soluções robustas e escaláveis. Tenho um forte background em **Linux** e sou **AWS Certified**. Minhas áreas de atuação incluem: **Segurança da Informação**, **Blue Team**, **Fortigate**.
 
 ## 🛠️ Tecnologias e Ferramentas
 
